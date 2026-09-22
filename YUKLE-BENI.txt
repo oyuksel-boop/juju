@@ -1,0 +1,24 @@
+JULIET'S MATHS ISLANDS - GITHUB'A YUKLEME
+
+1. github.com adresine gir, sag ustte "+" > "New repository".
+2. Repository name: maths-islands   (Public secili olsun)   > Create repository.
+3. GitHub Desktop: File > Clone repository > maths-islands > bilgisayarda bir klasore klonla.
+4. Bu zip icindeki TUM dosyalari o klasore kopyala:
+   index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png,
+   icon-maskable-512.png, README.md
+5. GitHub Desktop: Summary kutusuna "First version" yaz > Commit to main > Push origin.
+6. github.com/oyuksel-boop/maths-islands > Settings > Pages
+   Source: Deploy from a branch, Branch: main, klasor: / (root) > Save.
+7. 1-2 dakika sonra oyun burada acilir:
+   https://oyuksel-boop.github.io/maths-islands/
+
+TABLETE KURMAK (Redmi Pad 2 Pro)
+- Chrome ile linki ac > sag ustteki uc nokta > "Ana ekrana ekle" / "Uygulamayi yukle".
+- Ikon ana ekrana gelir, tam ekran acilir, internetsiz de calisir.
+
+GUNCELLEME YAPARSAN
+- Yeni index.html'i koy, sw.js icindeki VERSION satirini arttir
+  (maths-islands-v1 > maths-islands-v2), commit + push.
+
+EBEVEYN ALANI
+- Ana ekranda sag ustteki kilit ikonu. Haftalik odemeyi orada "Paid" olarak isaretle.
